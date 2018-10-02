@@ -7,7 +7,7 @@ An example chatbot using botframework sdk 4 nodejs and the serverless framework.
 Download node at [nodejs.org](http://nodejs.org) and install it, if you haven't already.
 
 ```sh
-npm install Botframework-Serverless-Example --save
+npm install
 ```
 
 ## Dependencies

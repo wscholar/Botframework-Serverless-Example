@@ -5,6 +5,10 @@
   "author": "SHL",
   "main": "src/index.js",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wscholar/Botframework-Serverless-Example"
+  },
   "devDependencies": {
     "serverless": "^1.32.0",
     "serverless-domain-manager": "^2.6.5",
