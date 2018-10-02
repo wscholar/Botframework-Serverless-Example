@@ -1,0 +1,17 @@
+{
+  "name": "Botframework-Serverless-Example",
+  "version": "1.1.0",
+  "description": "An example chatbot using botframework sdk 4 nodejs and the serverless framework.  The chatbot uses qnamaker to be able to answer questions.",
+  "author": "SHL",
+  "main": "src/index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "serverless": "^1.32.0",
+    "serverless-domain-manager": "^2.6.5",
+    "serverless-offline": "^3.25.11"
+  },
+  "dependencies": {
+    "botbuilder": "^4.0.6",
+    "botbuilder-ai": "^4.0.6"
+  }
+}
