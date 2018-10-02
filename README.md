@@ -1,2 +1,2 @@
-# waynebot
-Chatbot for Wayne.  Wonder what this will grow to be....
+#Botframework-Serverless-Example
+Example bot using Micrososft BotFramework v4 sdk (node.js) and the Serverless Framework. 
